@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../utils/storage.h
+memory.h
+-
+stdlib.h
+-
+
+/home/parallels/new-pi/utils/storage.c
+storage.h
+-
+errno.h
+-
+

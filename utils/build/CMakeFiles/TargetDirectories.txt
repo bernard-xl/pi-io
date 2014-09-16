@@ -1,0 +1,3 @@
+/home/xueliang/pi/projects/new-pi/utils/build/CMakeFiles/storage-perf.dir
+/home/xueliang/pi/projects/new-pi/utils/build/CMakeFiles/storage-test.dir
+/home/xueliang/pi/projects/new-pi/utils/build/CMakeFiles/utils.dir

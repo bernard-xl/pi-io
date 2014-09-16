@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../io/operation.h
+types.h
+-
+unistd.h
+-
+
+../io/types.h
+pthread.h
+-
+utils/list.h
+-
+
+../utils/list.h
+
+/home/parallels/new-pi/io/operation.c
+operation.h
+-
+unistd.h
+-
+fcntl.h
+-
+errno.h
+-
+stdlib.h
+-
+sys/epoll.h
+-
+sys/inotify.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc  -O3 -g    CMakeFiles/channel-test.dir/channel-test.c.o  -o channel-test -rdynamic io/libio.a utils/libutils.a -lpthread -lbluetooth 

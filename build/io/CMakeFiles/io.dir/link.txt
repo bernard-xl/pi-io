@@ -1,0 +1,2 @@
+/usr/bin/ar cr libio.a  CMakeFiles/io.dir/loop.c.o CMakeFiles/io.dir/handle.c.o CMakeFiles/io.dir/operation.c.o CMakeFiles/io.dir/file.c.o CMakeFiles/io.dir/tcp.c.o CMakeFiles/io.dir/rfcomm.c.o CMakeFiles/io.dir/serial.c.o CMakeFiles/io.dir/inotify.c.o
+/usr/bin/ranlib libio.a

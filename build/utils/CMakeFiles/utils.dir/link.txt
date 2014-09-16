@@ -1,0 +1,2 @@
+/usr/bin/ar cr libutils.a  CMakeFiles/utils.dir/storage.c.o
+/usr/bin/ranlib libutils.a

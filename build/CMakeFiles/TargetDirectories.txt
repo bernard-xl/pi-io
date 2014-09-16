@@ -1,0 +1,3 @@
+/home/parallels/new-pi/build/io/CMakeFiles/io.dir
+/home/parallels/new-pi/build/CMakeFiles/reactive.dir
+/home/parallels/new-pi/build/utils/CMakeFiles/utils.dir
